@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-testcvplugin",
+  "name": "cordova_plugin_testcvplugin",
   "version": "0.0.1",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-testcvplugin",
+    "id": "cordova_plugin_testcvplugin",
     "platforms": [
       "android"
     ]

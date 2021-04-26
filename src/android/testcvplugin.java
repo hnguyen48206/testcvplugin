@@ -1,4 +1,4 @@
-package cordova-plugin-testcvplugin;
+package cordova_plugin_testcvplugin;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
